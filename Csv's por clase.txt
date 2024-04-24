@@ -1,0 +1,7 @@
+Modulo_2_Clase_3 : videojuegos1.csv
+Modulo_3_Clase_1_(Clase11) : notas.csv
+Modulo_4_Clase_3_(Clase18) : house.csv
+Modulo_5_Clase_5_(Clase23) : ames_housing.csv
+ML0101EN-Clas-Logistic-Reg-churn : ChurnData.csv
+ML0101EN-Reg-Mulitple-Linear-Regression-Co2 : FuelConsumption.csv
+ML0101EN-Reg-Simple-Linear-Regression-Co2 : FuelConsumption.csv
